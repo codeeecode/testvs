@@ -1,1 +1,1 @@
-console.log("minh")
+console.log("minh");
